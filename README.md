@@ -1,4 +1,7 @@
 <p align="center">
+Hello, My name is Simona
+<p>
+<p align="center">
 	<a href="https://codeacademy.mk"><img src="https://codeacademy.mk/images/logo-code-academy.png" alt="Code Academy" width="400" align="center">
 	</a>
 <p>
