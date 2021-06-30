@@ -23,6 +23,29 @@ Code Academy course Fullstack developer - March 2018: All tasks with their solut
 - Laravel
 
 
+## Repository content:
+
+> **Homeworks**
+
+Tasks							|Descriptions																					| Labs																														| Exercises																															|Progress																														
+--------------------------------|:---------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:-------------:
+Homwork theme             	|[Description](https://github.com) |[Lab](https://github.com/)									|[Exercises](https://github.com/)								|![Progress](https://progress-bar.dev/100/?title=done)
+OOP Enheritance                   	|[Description](https://github.com) |[Lab](https://github.com)								|[Exercises](https://github.com)							|![Progress](https://progress-bar.dev/50/?title=progress)
+Homework 18                	|[Description](https://github.com/ca-php-fullstack/Homework18/blob/main/README.md) | 								|[Files](https://github.com/ca-php-fullstack/Homework18)							|![Progress](https://progress-bar.dev/100/?title=done)
+
+
+> **Exams**
+
+Exams				|Date				|Descriptions																											|Solutions
+--------------------|:-----------------:|:---------------------------------------------------------------------------------------------------------------------:|:----------:
+Web shop		|20 August 2021		|[Description](https://github.com)			|[Solution](https://github.com/)
+
+> **Workshop**
+
+Projects			|Descriptions																									|Solutions
+--------------------|:-------------------------------------------------------------------------------------------------------------:|:----------:
+Forum App			|[Description](https://github.com)		|[Solution](https://github.com)
+
 ### Feel Free to Contact me.....
 
 <p align="center">
