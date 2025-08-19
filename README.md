@@ -1,5 +1,41 @@
 ## Hi there, I'm Simona Levkova
 
+TaskAPI/
+ ├── Controllers/     # API Controllers (e.g., TaskController)
+ ├── Models/          # Data models (e.g., Task.cs)
+ ├── Data/            # Database context (e.g., AppDbContext.cs)
+ ├── Migrations/      # Entity Framework migrations
+ ├── Properties/      # Project properties and launch settings
+ ├── Program.cs       # Application entry point
+ ├── appsettings.json # Configuration file
+ └── TaskAPI.csproj   # Project file
+
+ Technologies Used
+
+.NET 6 / ASP.NET Core Web API
+
+Entity Framework Core
+
+SQL Server (or SQLite, if you used it)
+
+C#
+
+Swagger (for API documentation)
+
+Features
+
+Create, Read, Update, Delete (CRUD) tasks
+
+Entity Framework Core for database management
+
+RESTful API structure
+
+Swagger UI for API testing
+
+
+
+
+
 <p align="center">
 <a href="https://codeacademy.mk"><img src="https://codeacademy.mk/images/logo-code-academy.png" alt="Code Academy" width="400" align="center"></a>
 </p>
