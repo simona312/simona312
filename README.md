@@ -11,8 +11,6 @@
 </p>
 
 
-- I'm **Developer** | **Programmer** | **Learner**
-- Currently Learning **PHP**
 # My portfolio [link](https://my-portfolio.website)
 ## Course: [Fullstack developer](https://some.link)
 Code Academy course Fullstack developer - March 2018: All tasks with their solutions.
