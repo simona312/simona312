@@ -1,5 +1,22 @@
 ## Hi there, I'm Simona Levkova
 
+
+
+
+
+
+
+<p align="center">
+<a href="https://codeacademy.mk"><img src="https://codeacademy.mk/images/logo-code-academy.png" alt="Code Academy" width="400" align="center"></a>
+</p>
+
+
+- I'm **Developer** | **Programmer** | **Learner**
+- Currently Learning **PHP**
+# My portfolio [link](https://my-portfolio.website)
+## Course: [Fullstack developer](https://some.link)
+Code Academy course Fullstack developer - March 2018: All tasks with their solutions.
+
 TaskAPI/
  ├── Controllers/     # API Controllers (e.g., TaskController)
  ├── Models/          # Data models (e.g., Task.cs)
@@ -31,32 +48,6 @@ Entity Framework Core for database management
 RESTful API structure
 
 Swagger UI for API testing
-
-
-
-
-
-<p align="center">
-<a href="https://codeacademy.mk"><img src="https://codeacademy.mk/images/logo-code-academy.png" alt="Code Academy" width="400" align="center"></a>
-</p>
-
-
-- I'm **Developer** | **Programmer** | **Learner**
-- Currently Learning **PHP**
-# My portfolio [link](https://my-portfolio.website)
-## Course: [Fullstack developer PHP/JS](https://some.link)
-Code Academy course Fullstack developer - March 2018: All tasks with their solutions.
-
-## Course content:
-- HTML
-- CSS
-- Bootstrap
-- PHP Basics
-- PHP OOP
-- Databases
-- Javascript
-- Wordpress
-- Laravel
 
 
 ## Repository content:
