@@ -11,12 +11,8 @@ Passionate about continuous learning, collaboration, and delivering reliable sof
 
 ---
 
-### 🧰 Tech Stack
-- **Languages & Frameworks:** C#, .NET Core, ASP.NET, TypeScript, Angular  
-- **Databases:** SQL Server, Entity Framework Core  
-- **Tools:** Git, Docker (basic), Azure DevOps (basic)  
-- **Practices:** REST APIs, Clean Code, Unit Testing, CI/CD, Agile/SCRUM  
-### 🛠️ Tech Stack
+
+## 🛠️ Tech Stack
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
@@ -27,6 +23,7 @@ Passionate about continuous learning, collaboration, and delivering reliable sof
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white)
+
 
 ---
 ### ⭐ Featured Project
