@@ -4,7 +4,7 @@
 # Hi, I'm Simona 👋  
 
 
-**Full Stack .NET Developer** experienced in building web applications, RESTful APIs, and database-driven systems using **.NET Core (C#)**, **SQL Server**, and **Angular**.  
+**Full Stack Developer** experienced in building web applications, RESTful APIs, and database-driven systems using **.NET Core (C#)**, **SQL Server**, and **Angular**.  
 I enjoy creating clean, maintainable C# code, designing efficient APIs, and integrating backend services with modern frontend technologies.  
 Passionate about continuous learning, collaboration, and delivering reliable software solutions.
 
