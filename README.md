@@ -1,37 +1,65 @@
 
 
 
-# Hi, I'm Simona 👋  
+# Hi, I'm Simona 👋
 
+I'm a **Full Stack Developer** passionate about building scalable web applications and APIs using modern technologies like **.NET Core (C#)**, **SQL Server**, and **React (TypeScript)**.  
+I enjoy writing clean and maintainable code, collaborating in cross-functional teams, and continuously improving my skills through learning and real-world projects.
 
-**Full Stack Developer** experienced in building web applications, RESTful APIs, and database-driven systems using **.NET Core (C#)**, **SQL Server**, and **Angular**.  
-I enjoy creating clean, maintainable C# code, designing efficient APIs, and integrating backend services with modern frontend technologies.  
-Passionate about continuous learning, collaboration, and delivering reliable software solutions.
+💡 *"Code should not only work — it should also make sense."*
 
+---
+
+### 🧰 Tech Stack
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-5C2D91?style=flat)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 ---
 
+### 🚀 Featured Projects
 
-## 🛠️ Tech Stack
+#### 🗂 **ProjectHub**
+A **full-stack task management system** built with **ASP.NET Core Web API**, **Entity Framework Core**, and **React (TypeScript)**.  
+Includes JWT authentication, role-based access control, project/task CRUD, and deployment setup for **Azure App Service**.  
+🔗 [View Repository](https://github.com/simona312/ProjectHub)
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white)
-
+#### ⚙️ **TaskAPI**
+A **.NET 6 Web API** demonstrating CRUD operations with **Entity Framework Core** and **SQL Server**.  
+Implements clean architecture, Swagger documentation, and query optimization for performance.  
+🔗 [View Repository](https://github.com/simona312/TaskAPI)
 
 ---
-### ⭐ Featured Project
-- **Task Management API** — ASP.NET Core Web API + EF Core + SQL Server | RESTful CRUD Operations  
-  → [View repo](https://github.com/simona312/TaskAPI)
 
-### 🎓 Training
-- .NET Developer Program — Code Academy (2020–2021)
+### 🧩 About Me
+- 🎓 BSc in Computer Science  
+- 💼 Former **Software Developer** at Widnet Solutions (3+ years experience in .NET & Angular)  
+- 🌱 Currently exploring **React**, **TypeScript**, and **cloud deployment (Azure)**  
+- 💬 Ask me about **C#**, **ASP.NET Core**, **REST APIs**, **SQL**, or **frontend integration**  
+- ⚡ Fun fact: I love clean UI, logical structure, and naming things properly 😄  
+
+---
+
+### 📬 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/simona-levkova)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/simona312)
+[![Email](https://img.shields.io/badge/Email-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:simonalevkova@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+![Simona's GitHub stats](https://github-readme-stats.vercel.app/api?username=simona312&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simona312&layout=compact&theme=react)
+
 
 ### 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/simona-levkova-433398221/) · [GitHub](https://github.com/simona312)
