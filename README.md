@@ -52,7 +52,7 @@ Implements clean architecture, Swagger documentation, and query optimization for
 ### 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/simona-levkova)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/simona312)
-[![Email](https://img.shields.io/badge/Email-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:simonalevkova@gmail.com)
+[![Email](https://img.shields.io/badge/Email-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:levkovasimona92@gmail.com)
 
 ---
 
