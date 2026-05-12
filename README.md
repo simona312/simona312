@@ -26,7 +26,7 @@ I enjoy writing clean and maintainable code, collaborating in cross-functional t
 ### 🚀 Featured Projects
 
 #### 🗂 **ProjectHub**
-A **full-stack task management system** built with **ASP.NET Core Web API**, **Entity Framework Core**, and **React (TypeScript)**.  
+A **full-stack task management system** built with **ASP.NET Core Web API**, **Entity Framework Core**, and **React**.  
 Includes JWT authentication, role-based access control, project/task CRUD, and deployment setup for **Azure App Service**.  
 🔗 [View Repository](https://github.com/simona312/ProjectHub)
 
@@ -40,7 +40,6 @@ Implements clean architecture, Swagger documentation, and query optimization for
 ### 🧩 About Me
 - 🎓 BSc in Computer Science  
 - 💼 Former **Software Developer** at Widnet Solutions 
-- 🌱 Currently exploring **React**, **TypeScript**, and **cloud deployment (Azure)**  
 - 💬 Ask me about **C#**, **ASP.NET Core**, **REST APIs**, **SQL**, or **frontend integration**  
 - ⚡ Fun fact: I love clean UI, logical structure, and naming things properly 😄  
 
