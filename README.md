@@ -39,7 +39,7 @@ Implements clean architecture, Swagger documentation, and query optimization for
 
 ### 🧩 About Me
 - 🎓 BSc in Computer Science  
-- 💼 Former **Software Developer** at Widnet Solutions (3+ years experience in .NET & Angular)  
+- 💼 Former **Software Developer** at Widnet Solutions 
 - 🌱 Currently exploring **React**, **TypeScript**, and **cloud deployment (Azure)**  
 - 💬 Ask me about **C#**, **ASP.NET Core**, **REST APIs**, **SQL**, or **frontend integration**  
 - ⚡ Fun fact: I love clean UI, logical structure, and naming things properly 😄  
