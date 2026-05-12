@@ -3,7 +3,7 @@
 
 # Hi, I'm Simona 👋
 
-I'm a **Full Stack Developer** passionate about building scalable web applications and APIs using modern technologies like **.NET Core (C#)**, **SQL Server**, and **React (TypeScript)**.  
+I'm a **Full Stack Developer** passionate about building scalable web applications and APIs using modern technologies like **.NET Core (C#)**, **SQL Server**, and **React**.  
 I enjoy writing clean and maintainable code, collaborating in cross-functional teams, and continuously improving my skills through learning and real-world projects.
 
 💡 *"Code should not only work — it should also make sense."*
